@@ -6,3 +6,4 @@ This program generates random spirals with polygons. Here are a few examples:
 ![Screenshot](2.png)
 ![Screenshot](3.png)
 ![Screenshot](4.png)
+![Screenshot](5.png)
