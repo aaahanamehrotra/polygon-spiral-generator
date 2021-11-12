@@ -7,7 +7,7 @@ turtle.hideturtle()
 turtle.colormode(255)
 
 colors = []
-sides = randint(0, 11)
+sides = randint(3, 11)
 print(sides)
 x = 1
 
